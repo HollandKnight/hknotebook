@@ -1,0 +1,12 @@
+ipywidgets
+pandas
+numpy==1.13.1
+matplotlib==2.0.2
+fuzzywuzzy
+google-cloud-automl
+libprotobuf
+protobuf
+openpyxl
+sklearn
+xlrd
+pixiedust
