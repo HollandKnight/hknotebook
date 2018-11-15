@@ -11,7 +11,7 @@
 
 ## Try it live
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/HollandKnight/notebooks/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HollandKnight/hknotebook/master)
 
 Once binder loads, open lawyer_notebook.ipynb.  Once opened, click the "Appmode" button.
 ***
