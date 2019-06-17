@@ -1,0 +1,4 @@
+deploymentUri: "gs://hklibor2/"
+runtimeVersion: '1.4'
+framework: "SCIKIT_LEARN"
+pythonVersion: "3.5"
