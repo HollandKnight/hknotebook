@@ -1,6 +1,6 @@
 ipywidgets
 pandas
-numpy==1.13.1
+numpy==1.22.0
 matplotlib==2.0.2
 fuzzywuzzy
 google-cloud-automl
